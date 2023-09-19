@@ -1,8 +1,8 @@
 ---
 title: Enroll a Teams Room device into Pro Management
-author: altsou
-ms.author: altsou
-manager: serdars
+author: tonysmit
+ms.author: tonysmit
+manager: kimmatlock
 ms.date: 09/28/2022
 ms.topic: article
 ms.tgt.pltfrm: cloud
@@ -25,7 +25,7 @@ f1keywords:
 
 # Enrolling a device into Pro Management
 
-**With the upcoming Teams Rooms on Windows app update (version 4.17), which is scheduled for release by the end of June 2023, we have streamlined the enrollment process for Windows-based Teams Rooms devices. With version 4.17, IT admins will no longer need to manually download and install the Pro management admin agent on each device.**
+**With version 4.17 and higher, IT admins will no longer need to manually download and install the Pro management admin agent on each device.**
 
 Instead of performing the steps in this article, the Pro Management agent will be automatically downloaded and installed onto the Windows-based Teams Rooms devices as part of the Teams Rooms app update. This improvement simplifies the agent deployment and device enrollment tasks for IT admins, reducing their workload.
 
